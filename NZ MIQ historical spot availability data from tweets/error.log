@@ -1,0 +1,53 @@
+2021-08-20 11:16:18,563 WARNING Count 12 - Unexpected error for tweetRecord text: Appeared at 8:22pm:
+24-25 August: <class 'ValueError'>
+2021-08-20 11:18:02,472 WARNING Count 106 - Unexpected error for tweetRecord text: Appeared at 9:10pm:
+1 July - 30 November: <class 'ValueError'>
+2021-08-20 11:21:04,563 WARNING Count 290 - Unexpected error for tweetRecord text: Appeared at 6:40pm:
+3-5 November
+8-13 November
+15-18 November
+20-22 November
+25-26 November: <class 'ValueError'>
+2021-08-20 11:21:04,579 WARNING Count 290 - Unexpected error for tweetRecord text: Appeared at 6:40pm:
+3-5 November
+8-13 November
+15-18 November
+20-22 November
+25-26 November: <class 'ValueError'>
+2021-08-20 11:21:04,598 WARNING Count 290 - Unexpected error for tweetRecord text: Appeared at 6:40pm:
+3-5 November
+8-13 November
+15-18 November
+20-22 November
+25-26 November: <class 'ValueError'>
+2021-08-20 11:21:04,602 WARNING Count 290 - Unexpected error for tweetRecord text: Appeared at 6:40pm:
+3-5 November
+8-13 November
+15-18 November
+20-22 November
+25-26 November: <class 'ValueError'>
+2021-08-20 11:21:04,609 WARNING Count 290 - Unexpected error for tweetRecord text: Appeared at 6:40pm:
+3-5 November
+8-13 November
+15-18 November
+20-22 November
+25-26 November: <class 'ValueError'>
+2021-08-20 11:21:07,544 WARNING Count 293 - Unexpected error for tweetRecord text: Appeared at 6:14pm:
+Thursday 7 October
+20-21 October: <class 'ValueError'>
+2021-08-20 11:21:07,663 WARNING Count 293 - Unexpected error for tweetRecord text: Appeared at 6:12pm:
+Thursday 9 September
+Tuesday 14 September
+Thursday 23 September
+Sunday 26 September
+Tuesday 5 October
+Friday 8 October
+10-11 October
+Saturday 27 November
+Monday 29 November: <class 'ValueError'>
+2021-08-20 11:21:14,814 WARNING Count 299 - Unexpected error for tweetRecord text: Appeared at 5:17pm:
+13-14 September
+16 September - 30 November: <class 'ValueError'>
+2021-08-20 11:21:14,826 WARNING Count 299 - Unexpected error for tweetRecord text: Appeared at 5:17pm:
+13-14 September
+16 September - 30 November: <class 'ValueError'>
